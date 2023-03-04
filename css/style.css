@@ -1,4 +1,4 @@
-h1 {
+/*h1 {
 	font-family: "BPG Nino Mtavruli", sans-serif;
 }
 
@@ -12,5 +12,155 @@ h3 {
 
 h4 {
 	font-family: 'Roboto', sans-serif;
+}*/
+
+.nav-a {
+	color: #3D58A6;
+	font-size: 22px;
+	margin-right: 25px;
+	
+}
+
+.nav-a-active {
+	color: #EE4036;
+	font-size: 22px;
+	margin-right: 25px;
+	
+}
+
+.a-logo {
+	width: 100px;
+	height: 31px;
+	margin-left: 30px;
+	margin-right: 50px;
+}
+
+.container {
+	width: 1170px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.custom-block {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.baneri {
+	margin-top: 70px;
+}
+
+.div-style {
+	width: 500px;
+	height: 159px;
+	display: inline-block;
+	background-color: #F2F2F2;
+
+}
+
+.h4-style {
+	color: #3D58A6;
+	padding: 10px 200px 10px 10px;
+}
+
+.img-style {
+	vertical-align: middle;
+	margin-right: 55px;
+	margin-left: 20px;
+	width: 70px;
+	height: 100px;
+	margin-bottom: 10px;
+}
+
+.p-style {
+	color: #333333;
+	display: inline-block;
+	width: 320px;
+	vertical-align: middle;
+
+}
+
+.center {
+	margin-left: 100px;
+}
+
+.img-footer {
+	padding: 50px 10px 10px 10px;
+}
+
+.img-size {
+	width: 46px;
+	height: 46px;
+}
+
+.p-style1 {
+	color: #3D58A6;
+	font-size: 22px;
+	
+	
+}
+
+.p-style2 {
+	vertical-align: top;
+	width: 800px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}
+
+.h2-style {
+	margin-top: 22px;
+	margin-bottom: 16px;
+}
+
+.div-news {
+	width: 800px;
+	height: 360px;
+	vertical-align: top;
+	display: inline-block;
+
+}
+
+.div-color {
+	background-color: #E6E6E6;
+}
+
+.a-contact {
+	margin-right: 30px;
+	color: #808080;
+}
+
+span {
+	color: black;
+	margin-right: 30px;
+}
+
+.iframe-style {
+	display: inline-block;
+	vertical-align: top;
+	width: 800px;
+	height: 460px;
+	margin-bottom: 50px;
+	margin-top: 110px;
+	
+}
+
+.h2-contact{
+	color: #3D58A6;
+	margin-bottom: 12px;
+
+}
+
+.div2{
+	width: 300px;
+	height: 100px;
+	margin-top: 110px;
+	margin-left: 30px;
+	display: inline-block;
+	
+}
+
+.iframe2 {
+	width: 800px;
+	height: 460px;
 }
 
